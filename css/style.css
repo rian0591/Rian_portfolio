@@ -1,0 +1,68 @@
+body {
+    font-family: Work Sans;
+    font-weight: 500;
+    font-size: 16px;
+}
+.amar{
+    background:url(../img/slider.jpg);
+    padding: 220px 0px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.amar h1{
+    color: #ffffff;
+    
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 63px;
+}
+.amar p{
+    color:#ADB5B5 ;
+    font-size: 20px;
+}
+.amar a{
+    background-color: #948B3E !important;
+    color: white;
+    border: white 1px dotted;; 
+}
+.amar a:hover{
+    border: none;
+}
+#about .saa{
+    margin-left: 120px;
+}
+#about h1{
+    margin-top: 65px;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 63px;
+}
+#about p{
+    color:#ADB5B5 ;
+    font-size: 20px;
+}
+#Practice_Areas{
+    background-color: #181B33;
+}
+#Practice_Areas .div1{
+    margin: auto;
+    color: white;
+    text-align: center;
+}
+#Practice_Areas i{
+    font-size: 30px;
+    color: #948B3E;
+    display:inline;
+}
+#Practice_Areas h3{
+    color: white; 
+}
+#Practice_Areas p{
+    color:#ADB5B5 ;
+}
+#Practice_Areas .row{
+    padding-top: 40px;
+}
+
+
